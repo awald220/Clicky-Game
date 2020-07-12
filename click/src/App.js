@@ -1,45 +1,12 @@
-// import React from 'react';
-// import './App.css';
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//        <h2>Clicky Game</h2>
-//        <p>Click an image to begin!</p>
-//        <div className="score">
-//          <p>Score:  | Top Score: </p>
-//        </div>
-//       </header>
-      
-//       <div className="top-section">
-//         <h1>Clicky Game!</h1>
-//         <p>Click on an Image to earn points, but don't click on any more than once!</p>
-//       </div>
-
-//       <div className="images">
-
-//       </div>
-
-//       <div className="footer">
-        
-//       </div>
-
-//     </div>
-//   );
-// }
-
-// export default App;
-
 import React, { Component } from 'react';
 import { Row, CardPanel, Col } from 'react-materialize';
-//import { faSmile, faFrown, faBell, faCalendar, faEnvelope, faEnvelopeOpen, faNewspaper, faSnowflake, faBellSlash, faCompass, faEye, faFileAlt } from '@fortawesome/free-regular-svg-icons'
+import { faSmile, faFrown, faBell, faCalendar, faEnvelope, faEnvelopeOpen, faNewspaper, faSnowflake, faBellSlash, faCompass, faEye, faFileAlt } from '@fortawesome/free-regular-svg-icons'
 import GamePiece from './components/GamePiece';
 import Nav from './components/Nav/Nav';
 
 class App extends Component {
     state = {
-       // icons: [faSmile, faFrown, faBell, faCalendar, faEnvelope, faEnvelopeOpen, faNewspaper, faSnowflake, faBellSlash, faCompass, faEye, faFileAlt].sort(this.randomize),
+        icons: [faSmile, faFrown, faBell, faCalendar, faEnvelope, faEnvelopeOpen, faNewspaper, faSnowflake, faBellSlash, faCompass, faEye, faFileAlt].sort(this.randomize),
         clicked: [],
         score: 0,
         highScore: 0,
