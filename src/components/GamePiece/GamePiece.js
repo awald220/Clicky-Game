@@ -2,7 +2,7 @@
 import React from 'react'
 import { Col, CardPanel } from 'react-materialize';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import './GamePiece.css'
+//import './GamePiece.css'
 
 const GamePiece = props => (
     <Col s={12} m={4} l={3}>
