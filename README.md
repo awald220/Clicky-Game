@@ -1,4 +1,4 @@
-<!-- 
+
 # Clicky Game 
 
 # Purpose 
@@ -20,4 +20,4 @@ the purpose of this app is to allow the user to strengthen their memory. The use
 # Links 
 Live App: https://awald220.github.io/Clicky-Game/
 GitHub: https://github.com/awald220/Clicky-Game
-Portfolio: https://awald220.github.io/AW-Portfolio/portfolio.html -->
+Portfolio: https://awald220.github.io/AW-Portfolio/portfolio.html
