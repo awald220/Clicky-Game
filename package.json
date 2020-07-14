@@ -2,20 +2,20 @@
   "name": "click",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/awald220/Clicky-Game",
+  "homepage": "https://awald220.github.io/Clicky-Game",
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
-    "gh-pages": "^3.1.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
     "@fortawesome/free-regular-svg-icons": "^5.1.0-11",
     "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
     "@fortawesome/react-fontawesome": "0.1.0-11",
-    "react-materialize": "^2.3.1"
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "node": "^14.5.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-materialize": "^2.3.1",
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^3.1.0"
   }
 }
