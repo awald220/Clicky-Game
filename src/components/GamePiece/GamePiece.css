@@ -1,5 +1,19 @@
 .svg-inline--fa {
     font-size: 100px;
+    
+}
+
+.card {
+    display: flex;
+    background-color: violet;
+    margin: auto;
+}
+
+.icon {
+    background-color: teal;
+    padding: 20px;
+    margin: 10px;
+    
 }
 
 .shake {
