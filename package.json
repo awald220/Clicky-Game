@@ -2,7 +2,7 @@
   "name": "click",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://awald220.github.io/Clicky-Game",
+  "homepage": "https://awald220.github.io/Clicky-Game/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
     "@fortawesome/free-regular-svg-icons": "^5.1.0-11",
